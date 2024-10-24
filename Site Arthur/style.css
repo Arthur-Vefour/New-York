@@ -1,0 +1,26 @@
+main{
+    width: 50%; 
+    margin: 0 auto;
+    
+}
+header{
+    background-image: url("image/751813_poster.jpg");
+    background-position: 0%;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 200%;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+li {
+    float: left;
+}
